@@ -9,7 +9,7 @@
             "desktop":  "Syncthing.desktop"
         }
     },
-    "version": "0.14.31",
+    "version": "VERSION",
     "maintainer": "Jakob Borg",
     "framework" : "ubuntu-sdk-15.04.6"
 }
