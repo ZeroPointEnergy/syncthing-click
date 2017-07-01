@@ -3,7 +3,7 @@
 This is a small script and some resources to assemble the syncthing
 click package for ubports.
 
-## Buils package
+## Build package
 
 You need to have the click tool installed. Then simply run the build
 script with the desired version of syncthing:
