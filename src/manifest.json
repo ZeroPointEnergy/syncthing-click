@@ -1,0 +1,15 @@
+{
+    "name": "syncthing.zeropointenergy",
+    "description": "Syncthing is a continuous file synchronization program",
+    "architecture": "armhf",
+    "title": "Syncthing",
+    "hooks": {
+        "Syncthing": {
+            "apparmor": "Syncthing.apparmor",
+            "desktop":  "Syncthing.desktop"
+        }
+    },
+    "version": "0.14.31",
+    "maintainer": "Jakob Borg",
+    "framework" : "ubuntu-sdk-15.04.6"
+}

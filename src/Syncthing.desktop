@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Syncthing
+Comment="Syncthing is a continuous file synchronization program"
+Type=Application
+Icon=syncthing.png
+Exec=syncthing.sh
+Terminal=false
+X-Ubuntu-Touch=true
