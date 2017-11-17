@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# Disable update checks
+export STNOUPGRADE=1
+
 # make sure syncthing gets started if it is not already
 # running when starting the webui
 pgrep -u $USER -x syncthing > /dev/null || syncthing -no-browser &
